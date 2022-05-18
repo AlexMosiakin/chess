@@ -9,7 +9,7 @@ For use you should install
 Clone repo
 
 ```sh
-git clone https://github.com/AlexMosiakin/poke-land.git
+git clone https://github.com/AlexMosiakin/chess.git
 ```
 
 Make install all dependencies
